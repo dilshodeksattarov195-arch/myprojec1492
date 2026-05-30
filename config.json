@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheetringify",
+        "uuid": 9469724,
+        "checksum": "k70dim"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
